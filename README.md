@@ -8,6 +8,12 @@ Basically it helps you determine the odds of breeding specific IVs.
 
 ### The calc in action
 ![Just look at that fancy GUI!!!](/images/sample.png)
+* Set parent IVs via spinner buttons or manually typing them.
+* CSV / TAB to toggle output format
+* RND to randomize parent IVs
+* MAX to set all IVs to maximum (31) "Best!"
+* GEN to generate a new row of stats for a single poke-child.
+* Copy / Paste results into your favorite number cruncher.
 
 ### Paste your results into excel / google sheets for number crunching
 ![Yaay numbers!](/images/sample_excel.png)
