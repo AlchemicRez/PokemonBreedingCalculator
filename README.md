@@ -9,7 +9,7 @@ Basically it helps you determine the odds of breeding specific IVs.
 ### The calc in action
 ![Just look at that fancy GUI!!!](/images/sample.png)
 
-### Past your results into excel / google sheets for number crunching
+### Paste your results into excel / google sheets for number crunching
 ![Yaay numbers!](/images/sample_excel.png)
 
 ## Features
