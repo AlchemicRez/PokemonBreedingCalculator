@@ -2,9 +2,15 @@
 Simulate the outcome of breeding pokemon who are holding the Destiny Knot
 
 ## What is this thing?
-This application allows the user to specify Pokemon IVs for two parents (one of which is holding the Destiny Knot) and generate the IVs of a resulting child.  This can be done as many times as desired and the results can be pasted into excel / google docs for analysis.
+This application allows the user to specify Pokemon IVs for two parents (one of which is holding the Destiny Knot) and generate the IVs of a resulting child.  This can be done as many times as desired and the results can be pasted into excel / google sheets for analysis.
 
 Basically it helps you determine the odds of breeding specific IVs.
+
+### The calc in action
+![Just look at that fancy GUI!!!](/images/sample.png)
+
+### Past your results into excel / google sheets for number crunching
+![Yaay numbers!](/images/sample_excel.png)
 
 ## Features
 * Easily generate hundreds of simulated uh... poke-children
